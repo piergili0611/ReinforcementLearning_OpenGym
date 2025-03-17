@@ -36,6 +36,8 @@ agent = SACAgent(state_size=space_dim, action_size=action_dim)
 # Train the agent
 agent.train_Agent()
 ```
+![LunarLander Gif](Images_text/LunarLander_GIF.gif)
+
 
 ## 🎮 Supported OpenAI Gym Environments
 You can easily switch environments in train.py:
